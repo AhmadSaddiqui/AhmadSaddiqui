@@ -1,7 +1,9 @@
 # Hi there, I'm Ahmad Saddiqui 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;React+%7C+React+Native+%7C+NestJS;Node.js+%7C+MongoDB+%7C+Postgres;Prisma+%7C+n8n+%7C+AWS;Always+learning+new+things+🚀" alt="Typing SVG" />
+  <a href="https://github.com/ahmadsaddiqui">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;React+%7C+React+Native+%7C+NestJS;Node.js+%7C+MongoDB+%7C+Postgres;Prisma+%7C+n8n+%7C+AWS;Always+learning+new+things+🚀" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
